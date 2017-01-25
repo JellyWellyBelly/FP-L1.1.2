@@ -3,5 +3,3 @@ Projeto de Fundamentos da Programação.
 Licenciatura 1º Ano, 1º Semestre
 
 Linguagem: Python
-
-Como usar:
